@@ -1,4 +1,4 @@
-cheats = 10 
+cheats = 15 
 
 cheat0_desc = "Infinite Health (Main Character - Knight?)"
 cheat0_code = "00C5-0AFF"
@@ -39,4 +39,24 @@ cheat8_enable = false
 cheat9_desc = "Infinite Feathers"
 cheat9_code = "00C4-0305"
 cheat9_enable = false 
+
+cheat10_desc = "Infinite Sword"
+cheat10_code = "00C5-12FF"
+cheat10_enable = false 
+
+cheat11_desc = "Infinite Armor"
+cheat11_code = "00C5-1EFF"
+cheat11_enable = false 
+
+cheat12_desc = "Infinite Shield"
+cheat12_code = "00C5-18FF"
+cheat12_enable = false 
+
+cheat13_desc = "Max Strenght"
+cheat13_code = "00C5-02FA"
+cheat13_enable = false 
+
+cheat14_desc = "Max Defense"
+cheat14_code = "00C5-10B2"
+cheat14_enable = false 
 
